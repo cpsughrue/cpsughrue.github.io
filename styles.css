@@ -17,6 +17,9 @@ a {
 
 .nav_links {
   text-align: right;
+  width: 50%;
+  float: right;
+  background-color: blue;
 }
 
 .nav_links li {
@@ -29,6 +32,11 @@ a {
 .nav_links li a {
   font-size: 16px;
   color: black;
+}
+
+.nav_links li a:hover {
+  font-size: 16px;
+  color: red;
 }
 
 .headerDivider {

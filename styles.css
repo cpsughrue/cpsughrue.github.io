@@ -19,7 +19,6 @@ a {
   text-align: right;
   width: 50%;
   float: right;
-  background-color: blue;
 }
 
 .nav_links li {
@@ -42,4 +41,11 @@ a {
 .headerDivider {
   border-left: 1px solid black;
   height: 2em;
+}
+
+.logo {
+  padding: 2ch;
+  font-size: 20px;
+  font-weight: 550;
+  vertical-align: middle;
 }

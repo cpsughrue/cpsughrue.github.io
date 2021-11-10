@@ -12,14 +12,11 @@ a {
 
 header {
   display: flex;
-  justify-content: flex-end;
-  align-items: center;
+  justify-content:space-between;
   padding: 15px 2ch;
-  vertical-align: top;
 }
 
 .logo {
-  margin-right: auto;
   font-size: 22px;
   font-weight: 600;
   color: black;
